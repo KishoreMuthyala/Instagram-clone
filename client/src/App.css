@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+.brand-logo {
+  font-family: "Lobster";
+}
+
+a {
+  color: black !important;
+}
+
+.signin {
+  max-width: 400px;
+  padding: 20px;
+  margin: 10px auto;
+  text-align: center;
+  height: 100%;
+}
+
+.ProfilePhoto {
+  width: 160px;
+  height: 160px;
+  border-radius: 80px;
+}
+.detail {
+  display: flex;
+  justify-content: space-between;
+  width: 108%;
+}
+.kishore {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid black;
+}
+.Post {
+  width: 30%;
+  margin-bottom: 10px;
+}
+.Posts {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 20px auto;
+}
+
+.container {
+  max-width: 800px;
+  margin: 10px auto;
+}
+.home-image {
+  width: max-content;
+  margin: 20px auto;
+}
+
+.main {
+  max-width: 500px;
+  padding: 20px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+#toast-container {
+  top: 50px;
+  right: 20px;
+}
